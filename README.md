@@ -25,6 +25,7 @@ Mac 上好用的软件
 - [Keka](https://www.keka.io/zh-cn/) ~ Mac 上好用的压缩文件管理软件
 - [Itsycal](https://www.mowglii.com/itsycal/) ~ 顶部菜单栏日历插件
 - [Aerial](https://github.com/JohnCoates/Aerial/releases) ~ 开源的屏保软件，多屏 Spanned 模式很酷
+- [Jietu](https://jietu.qq.com) ~ 屏幕截图软件，自带图片编辑功能
 - [Snip](https://snip.qq.com/) ~ 屏幕截图软件，可以滚动截屏
 - [CheatSheet](https://mediaatelier.com/CheatSheet/) ~ 查看软件快捷键工具，一键查看软件所有快捷键
 - [AppCleaner](https://freemacsoft.net/appcleaner/) ~ 软件卸载工具，不再为卸载软件后有残留文件发愁
